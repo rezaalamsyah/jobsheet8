@@ -1,6 +1,6 @@
 # jobsheet8
 hasil satu 
-![alt text](https://github.com/rezaalamsyah/jobsheet8/blob/master/Screenshot%20(32).png "run hasil satu")
+![alt text](https://github.com/rezaalamsyah/jobsheet8/blob/master/Screenshot%20(37).png "run hasil satu")
 hasil dua
 ![alt text](https://github.com/rezaalamsyah/jobsheet8/blob/master/Screenshot%20(36).png "run hasil dua")
 fungsi break adalah agar program berhenti setelah memenuhi persyaratan
